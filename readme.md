@@ -20,7 +20,7 @@
 <!-- Just do pip install modules.txt if any module error occurs -->
 
 
-#screenshots
+# Screenshots
 
 <img width="734" alt="gym3" src="https://user-images.githubusercontent.com/82885666/117330160-07501580-aeb3-11eb-9bc4-2238c052340b.PNG">
 <img width="807" alt="gym4" src="https://user-images.githubusercontent.com/82885666/117330179-0cad6000-aeb3-11eb-9a40-b50659e2d95d.PNG">
@@ -33,5 +33,9 @@
 
 
 
-#credits
+# Credits
 also credits to codewithkiran youtube channel for the help in making chatbot and login system
+
+
+# Reach me
+in case of any queries mail me at - gupadhyay8080@gmail.com
