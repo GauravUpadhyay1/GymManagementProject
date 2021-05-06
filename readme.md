@@ -18,3 +18,16 @@
 
 
 <!-- Just do pip install modules.txt if any module error occurs -->
+
+
+#screenshots
+
+<img width="734" alt="gym3" src="https://user-images.githubusercontent.com/82885666/117330160-07501580-aeb3-11eb-9bc4-2238c052340b.PNG">
+<img width="807" alt="gym4" src="https://user-images.githubusercontent.com/82885666/117330179-0cad6000-aeb3-11eb-9a40-b50659e2d95d.PNG">
+<img width="944" alt="gym5" src="https://user-images.githubusercontent.com/82885666/117330210-12a34100-aeb3-11eb-96fd-b932cfed1b2d.PNG">
+
+<img width="741" alt="gym6" src="https://user-images.githubusercontent.com/82885666/117330239-1a62e580-aeb3-11eb-8fa8-e00da2b81b19.PNG">
+<img width="740" alt="gym7" src="https://user-images.githubusercontent.com/82885666/117330246-1b941280-aeb3-11eb-8f92-10339899d134.PNG">
+
+
+
