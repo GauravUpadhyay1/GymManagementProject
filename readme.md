@@ -1,7 +1,7 @@
-##### Gym Management Application With Inbuilt Chatbot ####
+# Gym Management Application With Inbuilt Chatbot
 
--made using python(tkinter)
--database MYSQL(Workbench)
+- made using python(tkinter)
+- database MYSQL(Workbench)
 
 
 # Working
